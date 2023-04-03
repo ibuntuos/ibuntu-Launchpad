@@ -5,7 +5,7 @@ Forked Version to be used with iBuntu
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ibuntuos/ibuntu-Launchpad/master/launchpad-1.0/launchpad.pngg" height="150" width="150">
+  <img src="https://raw.githubusercontent.com/ibuntuos/ibuntu-Launchpad/master/launchpad-1.0/launchpad.png" height="150" width="150">
 </p>
 
 ## Installation
