@@ -5,7 +5,7 @@ Forked Version to be used with iBuntu
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/milan102/Ubuntu-Launchpad/master/launchpad-1.0/launchpad.png" height="150" width="150">
+  <img src="https://raw.githubusercontent.com/ibuntuos/ibuntu-Launchpad/master/launchpad-1.0/launchpad.pngg" height="150" width="150">
 </p>
 
 ## Installation
@@ -14,7 +14,7 @@ Install the dependency by opening Terminal and running:
 sudo apt install xdotool
 ```
 
-[Download the deb installer file](https://github.com/milan102/Ubuntu-Launchpad/raw/master/launchpad-1.0.deb)
+[Download the deb installer file](https://github.com/ibuntuos/ibuntu-Launchpad/blob/master/launchpad-1.0.deb)
 
 Open the deb file and proceed with installation
 
